@@ -2,7 +2,8 @@ extends layout.pug
 
 block content
   h1= title
-  h3= message
+  h3= about
   |
   |
-  p= apiEndpoint1
+  p Get Latest Release of Apps: 
+    a(href='/api/v1/latest_release', target='_blank') /api/v1/latest_release

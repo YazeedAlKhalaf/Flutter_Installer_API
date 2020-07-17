@@ -4,5 +4,6 @@ body {
   background-color: beige;
   font-family: "Roboto Mono", monospace;
   max-width: 1000;
+  padding: 20px;
   margin: auto;
 }
