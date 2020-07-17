@@ -2,7 +2,7 @@
   "name": "flutter_installer_api",
   "version": "1.0.0",
   "description": "API for Flutter Installer",
-  "main": "app.js",
+  "main": "./src/app.js",
   "scripts": {
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www"
