@@ -18,7 +18,7 @@ exports.getLatestReleases = function (req, res, next) {
         version: "1.47",
         download_links: {
           windows: "https://aka.ms/win32-x64-user-stable",
-          linux: "https://go.microsoft.com/fwlink/?LinkID=760868",
+          linux: "https://go.microsoft.com/fwlink/?LinkID=620884",
           macos: "https://go.microsoft.com/fwlink/?LinkID=620882",
         },
       },
