@@ -4,6 +4,10 @@
 
 This repository contains an API made to enhance [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer)
 
+## We like Docker, do you?
+
+You can run the project using docker
+
 ## Wanna Contribute? 🚀
 
 You can contribute by doing one of the following:

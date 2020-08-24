@@ -7,8 +7,16 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YazeedAlKhalaf/Flutter_Installer_API.git"
+  },
   "author": "Yazeed AlKhalaf",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YazeedAlKhalaf/Flutter_Installer_API/issues"
+  },
+  "homepage": "https://github.com/YazeedAlKhalaf/Flutter_Installer_API#readme",
   "dependencies": {
     "express": "^4.17.1",
     "pug": "^3.0.0"
