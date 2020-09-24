@@ -15,11 +15,11 @@ exports.getLatestReleases = function (req, res, next) {
       },
       visual_studio_code: {
         name: "Visual Studio Code",
-        version: "1.47",
+        version: "latest",
         download_links: {
-          windows: "https://aka.ms/win32-x64-user-stable",
-          linux: "https://go.microsoft.com/fwlink/?LinkID=620884",
-          macos: "https://go.microsoft.com/fwlink/?LinkID=620882",
+          windows: "https://update.code.visualstudio.com/latest/win32-x64/stable",
+          linux: "https://update.code.visualstudio.com/latest/linux-x64/stable",
+          macos: "https://update.code.visualstudio.com/latest/darwin/stable",
         },
       },
       intellij_idea: {
