@@ -3,21 +3,22 @@ exports.getLatestReleases = function (req, res, next) {
     latest: {
       android_studio: {
         name: "Android Studio",
-        version: "4.0.1",
+        version: "4.0.2.0",
         download_links: {
           windows:
-            "https://redirector.gvt1.com/edgedl/android/studio/install/4.0.1.0/android-studio-ide-193.6626763-windows.exe",
+            "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe",
           linux:
-            "https://redirector.gvt1.com/edgedl/android/studio/ide-zips/4.0.1.0/android-studio-ide-193.6626763-linux.tar.gz",
+            "https://redirector.gvt1.com/edgedl/android/studio/ide-zips/4.1.2.0/android-studio-ide-201.7042882-linux.tar.gz",
           macos:
-            "https://redirector.gvt1.com/edgedl/android/studio/install/4.0.1.0/android-studio-ide-193.6626763-mac.dmg",
+            "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-mac.dmg",
         },
       },
       visual_studio_code: {
         name: "Visual Studio Code",
         version: "latest",
         download_links: {
-          windows: "https://update.code.visualstudio.com/latest/win32-x64/stable",
+          windows:
+            "https://update.code.visualstudio.com/latest/win32-x64/stable",
           linux: "https://update.code.visualstudio.com/latest/linux-x64/stable",
           macos: "https://update.code.visualstudio.com/latest/darwin/stable",
         },
