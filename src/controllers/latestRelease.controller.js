@@ -25,11 +25,11 @@ exports.getLatestReleases = function (req, res, next) {
       },
       intellij_idea: {
         name: "IntelliJ IDEA",
-        version: "2020.1.3",
+        version: "2020.3.2",
         download_links: {
-          windows: "https://download.jetbrains.com/idea/ideaIC-2020.1.3.exe",
-          linux: "https://download.jetbrains.com/idea/ideaIC-2020.1.3.tar.gz",
-          macos: "https://download.jetbrains.com/idea/ideaIC-2020.1.3.dmg",
+          windows: "https://download.jetbrains.com/idea/ideaIC-2020.3.2.exe",
+          linux: "https://download.jetbrains.com/idea/ideaIC-2020.3.2.tar.gz",
+          macos: "https://download.jetbrains.com/idea/ideaIC-2020.3.2.dmg",
         },
       },
       scripts: {
